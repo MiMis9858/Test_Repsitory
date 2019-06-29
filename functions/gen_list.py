@@ -1,2 +1,2 @@
-def gen_list():
-    pass
+def gen_list(x,y):
+    return list(str(x) * y)
