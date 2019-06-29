@@ -1,2 +1,3 @@
 def gen_list(x,y):
-    return list(str(x) * y)
+    v = list(str(x) * y)
+    return list(map(int,v))

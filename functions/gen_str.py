@@ -1,2 +1,2 @@
-def gen_str(x):
-    return x
+def gen_str(x, y):
+    return x + y
