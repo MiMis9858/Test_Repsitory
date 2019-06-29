@@ -1,3 +1,2 @@
-def subtraction():
-    pass
-
+def subtraction(x, y):
+    return x - y
