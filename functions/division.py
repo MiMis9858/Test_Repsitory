@@ -1,3 +1,3 @@
-def division():
-    pass
+def division(x, y):
+    return x / y
 
