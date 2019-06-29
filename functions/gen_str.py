@@ -1,2 +1,2 @@
-def gen_str():
-    pass
+def gen_str(x):
+    return x
